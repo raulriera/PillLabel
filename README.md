@@ -1,6 +1,6 @@
 #PillLabel
 
-UILabel subclass with support for border color, border radius and padding. All accesible via de Attributes Inspector tab
+UILabel subclass with support for border color, border radius and padding. All accesible via the Attributes Inspector tab
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/raulriera/PillLabel/master/Screenshot2.png" />
