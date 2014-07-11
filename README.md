@@ -1,6 +1,6 @@
 #PillLabel
 
-UILabel subclass with support for border color, border radius and padding. All accesible via de Inspector window
+UILabel subclass with support for border color, border radius and padding. All accesible via de Attributes Inspector tab
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/raulriera/PillLabel/master/Screenshot2.png" />
@@ -8,9 +8,7 @@ UILabel subclass with support for border color, border radius and padding. All a
 
 ## Usage:
 
-Simply place an UILabel on the canvas and reference the class in the "Identity Inspector".
-
-Using the examples in the image, your label will look like this:
+Simply place an UILabel on the canvas and reference the class in the "Identity Inspector". Now you can start playing with the values in the "Attributes Inspector"
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raulriera/PillLabel/master/Screenshot1.png" />
