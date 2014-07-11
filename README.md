@@ -1,9 +1,9 @@
-#PillLabel <img src="http://github.com/raulriera/PillLabel/raw/master/ScreenShot1.png" />
+#PillLabel <img src="https://raw.githubusercontent.com/raulriera/PillLabel/master/Screenshot1.png" />
 
 UILabel subclass with support for border color, border radius and padding. All accesible via de Inspector window
 
 <p align="center">
-	<img src="http://github.com/raulriera/PillLabel/raw/master/ScreenShot2.png" />
+	<img src="https://raw.githubusercontent.com/raulriera/PillLabel/master/Screenshot2.png" />
 </p>
 
 ## Usage:
