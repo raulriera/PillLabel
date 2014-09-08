@@ -30,7 +30,7 @@
 
 - (CGRect)textRectForBounds:(CGRect)bounds limitedToNumberOfLines:(NSInteger)numberOfLines
 {
-    UIEdgeInsets insets = {0, self.padding, 0, self.padding};
+    UIEdgeInsets insets = {self.padding/2, self.padding, self.padding/2, self.padding};
     CGRect rect = [super textRectForBounds:UIEdgeInsetsInsetRect(bounds, insets)
                     limitedToNumberOfLines:numberOfLines];
 
