@@ -84,6 +84,7 @@
 
 - (void)prepareForInterfaceBuilder
 {
+    [super prepareForInterfaceBuilder];
     [self style];
 }
 
